@@ -8,9 +8,9 @@ editor: visual
 
 je m'appelle **Elsouille** j'aime le chocolat et je veux faire la *sieste*. voici 3 autres choses que j'aime :
 
--   la musique
--   faire la commère depuis mon balcon
--   les puzzles
+- la musique
+- faire la commère depuis mon balcon
+- les puzzles
 
 ## Step 2 :
 
