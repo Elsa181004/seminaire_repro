@@ -1,0 +1,17 @@
+---
+title: "Seminaire reproductibilité"
+format: pdf
+editor: visual
+---
+
+## Step 1 : presentation de moi
+
+je m'appelle **Elsouille** j'aime le chocolat et je veux faire la *sieste*. voici 3 autres choses que j'aime :
+
+-   la musique
+-   faire la commère depuis mon balcon
+-   les puzzles
+
+## Step 2 :
+
+The sum of `r sum(1:10)` is the total of the first ten integers.

@@ -1,0 +1,8 @@
+---
+title: "Easy setup towards version control with Git"
+format: html
+editor:
+  markdown:
+    wrap: 72
+    canonical: true
+---
